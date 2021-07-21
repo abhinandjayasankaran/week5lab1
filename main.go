@@ -1,7 +1,7 @@
 package main
 
 import (
-	"github.com/abhinandjayasankaran/week5lab1/covidApi"
+	"week5lab1/covidApi"
 )
 
 func main() {
